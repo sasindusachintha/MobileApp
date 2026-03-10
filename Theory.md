@@ -141,3 +141,23 @@ Examples:
 - Notifications
 - Reports
 - Confirmation messages
+
+#### Processing
+Processing refers to the internal operations performed by the application to convert inputs into outputs.  
+Examples:
+- Data validation
+- Calculations
+- Data storage and retrieval
+- Communication with servers or APIs
+
+#### User Interface (UI)
+The user interface is the visual part of the application that allows users to interact with it.  
+Examples include:
+- Buttons
+- Menus
+- Forms
+- Navigation screens
+
+A well-designed UI improves **usability and user experience**.
+
+---
