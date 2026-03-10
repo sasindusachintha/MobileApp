@@ -90,4 +90,29 @@ A **mobile operating system (OS)** is system software that manages mobile device
 
 ---
 
+## Selection
+
+Selection in mobile app development refers to choosing the **appropriate programming language, development platform, and tools** required to build the mobile application. Proper selection helps ensure efficiency, compatibility, and maintainability of the application.
+
+### Identification of Mobile Programming Language
+The programming language used depends on the target mobile platform.
+
+- **Java Programming Language**
+  - A widely used language for Android application development.
+  - Object-Oriented Programming (OOP) language that supports modular and reusable code.
+  - Provides strong community support and many libraries.
+  - Previously the main language for Android development.
+ 
+- **Kotlin Programming Language**
+  - A modern programming language officially supported for Android development.
+  - More concise and safer than Java.
+  - Fully compatible with existing Java libraries.
+
+### Platform Selection
+
+- **Android Studio**
+  - The official Integrated Development Environment (IDE) for Android application development.
+  - Provides tools for coding, debugging, testing, and application packaging.
+  - Includes an **Android emulator** to test applications without a physical device.
+  - Supports multiple programming languages such as Java and Kotlin.
 
