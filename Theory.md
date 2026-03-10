@@ -116,3 +116,28 @@ The programming language used depends on the target mobile platform.
   - Includes an **Android emulator** to test applications without a physical device.
   - Supports multiple programming languages such as Java and Kotlin.
 
+Proper selection of language and platform ensures **efficient development, better performance, and easier maintenance** of the mobile application.
+
+---
+
+## Requirements Specification
+
+Requirements specification defines the **functional and non-functional requirements** of a mobile application before development begins. It helps developers understand what the application should do and the conditions it must satisfy.
+
+### Overview
+
+#### Inputs
+Inputs are the data provided by users or external systems to the application.  
+Examples:
+- User login details
+- Form data
+- Location data
+- Sensor information
+
+#### Outputs
+Outputs are the results or responses produced by the application.  
+Examples:
+- Displayed information
+- Notifications
+- Reports
+- Confirmation messages
