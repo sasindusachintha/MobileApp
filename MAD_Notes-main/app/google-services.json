@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1051339663527",
+    "project_id": "sample49app-ea920",
+    "storage_bucket": "sample49app-ea920.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051339663527:android:14cebe949d8330cb4e9382",
+        "android_client_info": {
+          "package_name": "com.example.mad_notes"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCNYJ1b5MchTzqHmFzPcSkrm5iSSVpCL_o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

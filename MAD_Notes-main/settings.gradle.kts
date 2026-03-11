@@ -10,18 +10,7 @@ pluginManagement {
         mavenCentral()
         gradlePluginPortal()
     }
-
-    // Set AGP version explicitly
-    plugins {
-        id("com.android.application") version "8.1.3"
-        id("com.google.gms.google-services") version "4.4.0"
-    }
 }
-
-plugins {
-    id("org.gradle.toolchains.foojay-resolver-convention") version "1.0.0"
-}
-
 dependencyResolutionManagement {
     repositoriesMode.set(RepositoriesMode.FAIL_ON_PROJECT_REPOS)
     repositories {
@@ -30,5 +19,5 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "myTestapp"
+rootProject.name = "MAD_Notes"
 include(":app")
