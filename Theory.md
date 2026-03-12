@@ -161,3 +161,17 @@ Examples include:
 A well-designed UI improves **usability and user experience**.
 
 ---
+
+### Constraints
+
+Constraints are limitations or conditions that affect the development of the mobile application.
+
+#### Hardware Platforms
+- The application must run on specific devices such as smartphones or tablets.
+- Developers must consider **device memory, processor speed, screen size, and battery usage**.
+
+#### Timescales for Development
+- Projects must be completed within a **specific time period or deadline**.
+- Development schedules are planned to manage tasks effectively.
+
+---
