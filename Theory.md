@@ -175,3 +175,22 @@ Constraints are limitations or conditions that affect the development of the mob
 - Development schedules are planned to manage tasks effectively.
 
 ---
+
+### Interaction
+
+Interaction describes how the mobile application communicates with other systems or components.
+
+#### Data Exchange
+- Applications often exchange data with servers, databases, or other applications using **APIs and web services**.
+
+#### Compliance
+- Applications must follow **legal regulations and platform guidelines**, such as privacy rules and app store policies.
+
+#### Compatibility
+- The application should work correctly on **different devices, operating systems, and screen sizes**.
+
+#### Standards
+- Developers must follow established **programming and design standards** to ensure reliability, maintainability, and interoperability.
+
+---
+
