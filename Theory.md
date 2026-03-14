@@ -194,3 +194,42 @@ Interaction describes how the mobile application communicates with other systems
 
 ---
 
+## Program Design
+
+Program design is the process of planning the structure and logic of a mobile application before coding begins. Various design tools are used to represent system components and their interactions.
+
+### Structure Diagrams
+- Show the hierarchical structure of the program modules.
+- Help developers understand how different components of the system are organized.
+
+### Data Flow Diagrams (DFD)
+- Illustrate how data moves through the system.
+- Show processes, data stores, and external entities involved in the system.
+
+### Entity Relationship Models (ER Models)
+- Used to design the **database structure** of the application.
+- Show entities, attributes, and relationships between data objects.
+
+### Flow Charts
+- Graphical representation of the **step-by-step execution of a program**.
+- Helps visualize program logic and decision points.
+
+### Pseudocode
+- A simplified description of program logic written in plain language.
+- Used to plan algorithms before writing actual code.
+
+### Class Diagrams
+- Used in Object-Oriented Programming to represent **classes, attributes, methods, and relationships**.
+- Helps in designing the structure of the software system.
+
+### Class Responsibilities
+- Defines the **roles and tasks assigned to each class** in the program.
+- Helps maintain clear separation of responsibilities.
+
+### Collaboration Cards
+- Also known as **CRC (Class-Responsibility-Collaboration) cards**.
+- Used to identify:
+  - The responsibilities of each class
+  - The other classes it interacts with
+
+---
