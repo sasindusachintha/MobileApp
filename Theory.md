@@ -233,3 +233,16 @@ Program design is the process of planning the structure and logic of a mobile ap
   - The other classes it interacts with
 
 ---
+
+## 1. Technical Documentation
+
+Technical documentation explains how a mobile application is **planned, designed, and implemented**. It helps developers understand the system and makes it easier to maintain or update the application.
+
+### Requirements Specification
+Requirements specification describes **what the system should do** and **how it should perform**. It normally includes:
+
+Technical documentation explains how a mobile application is **planned, designed, and implemented**. It helps developers understand the system and makes it easier to maintain or update the application.
+
+### Requirements Specification
+Requirements specification describes **what the system should do** and **how it should perform**. It normally includes:
+
