@@ -250,3 +250,10 @@ Requirements specification describes **what the system should do** and **how it 
 - **System inputs** – Data entered by users or external systems.
 - **System outputs** – Information displayed to the user or stored in databases.
 - **Processing** – Operations performed on input data.
+
+Example for a Firebase user input app:
+- Input: Name, Age, Email, Password  
+- Processing: Validate and store data in Firebase  
+- Output: Confirmation message or saved record
+
+---
