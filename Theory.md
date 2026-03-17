@@ -257,3 +257,13 @@ Example for a Firebase user input app:
 - Output: Confirmation message or saved record
 
 ---
+
+### UI Design (User Interface Design)
+UI design refers to how the **visual layout of the application** appears to users.
+
+Important aspects:
+- Layout structure
+- Buttons and input fields
+- Icons and images
+- Navigation between screens
+- User-friendly design
