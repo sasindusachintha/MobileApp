@@ -245,4 +245,8 @@ Technical documentation explains how a mobile application is **planned, designed
 
 ### Requirements Specification
 Requirements specification describes **what the system should do** and **how it should perform**. It normally includes:
-
+- **Functional requirements** – The main features of the system (e.g., user registration, login, saving data).
+- **Non-functional requirements** – Performance, security, usability, and reliability requirements.
+- **System inputs** – Data entered by users or external systems.
+- **System outputs** – Information displayed to the user or stored in databases.
+- **Processing** – Operations performed on input data.
