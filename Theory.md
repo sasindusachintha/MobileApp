@@ -267,3 +267,16 @@ Important aspects:
 - Icons and images
 - Navigation between screens
 - User-friendly design
+
+Tools used for UI design:
+- Wireframes
+- Mockups
+- Android XML layouts
+
+Example UI elements:
+- EditText
+- Button
+- ImageView
+- TextView
+
+---
