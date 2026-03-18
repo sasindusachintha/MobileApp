@@ -280,3 +280,62 @@ Example UI elements:
 - TextView
 
 ---
+
+### Flowcharts
+Flowcharts are **graphical representations of program logic**.
+
+Common symbols:
+- **Oval** → Start/End
+- **Rectangle** → Process
+- **Parallelogram** → Input/Output
+- **Diamond** → Decision
+
+Example flow:
+Start → Enter user details → Validate data → Save to Firebase → Display success message → End
+
+---
+
+### Pseudocode
+Pseudocode describes the **logic of a program in simple English-like language** before coding.
+
+Example:
+START
+INPUT name, age, email, password
+IF any field is empty THEN
+DISPLAY "Please fill all fields"
+ELSE
+SAVE data to Firebase database
+DISPLAY "Data saved successfully"
+END IF
+END
+
+---
+
+### Action Charts
+Action charts illustrate the **sequence of actions in a program or system process**.  
+They help developers understand how tasks are performed step by step.
+
+Example actions:
+1. User enters details
+2. System validates data
+3. System stores data
+4. System displays result
+
+---
+
+
+### Data Dictionary
+A data dictionary describes **all data elements used in the system**.
+
+| Field Name | Data Type | Description |
+|-------------|-----------|-------------|
+| name | String | Stores user's name |
+| age | Integer | Stores user's age |
+| email | String | Stores user's email |
+| password | String | Stores user password |
+
+The data dictionary helps maintain **consistency and clarity in database design**.
+
+---
+
+
