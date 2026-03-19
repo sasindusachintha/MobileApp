@@ -25,7 +25,6 @@ public class MainActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
 
         DatabaseReference databaseReference ;
-        FirebaseDatabase database ;
 
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
