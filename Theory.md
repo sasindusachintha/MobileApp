@@ -357,3 +357,38 @@ Methods:
 saveUser()
 validateData()
 
+#### Instance Diagram
+An instance diagram shows a **specific example of a class with actual values**.
+
+Example instance:
+User
+name = "John"
+age = 22
+email = "john@gmail.com"
+password = "12345"
+
+---
+
+# 2. Data
+
+Data is the information processed by the application.
+
+### Variables
+Variables are **named memory locations used to store data values**.
+
+Example in Java:
+java
+String name;
+int age;
+
+Data Types
+
+Data types define the type of value a variable can store.
+
+Common data types in mobile programming:
+
+Data Type	Description	Example
+int	Integer numbers	10
+double	Decimal numbers	10.5
+String	Text data	"Hello"
+boolean	True or false values	true
