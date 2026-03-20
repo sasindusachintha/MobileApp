@@ -338,4 +338,22 @@ The data dictionary helps maintain **consistency and clarity in database design*
 
 ---
 
+### Class and Instance Diagrams
+
+#### Class Diagram
+A class diagram shows the **structure of classes, attributes, and methods** in an object-oriented system.
+
+Example class:
+
+Class: User
+
+Attributes:
+name : String
+age : int
+email : String
+password : String
+
+Methods:
+saveUser()
+validateData()
 
