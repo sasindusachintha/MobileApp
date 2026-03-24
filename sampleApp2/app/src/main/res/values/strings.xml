@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">sampleApp2</string>
+    <string name="Employee_Name">Employee Name</string>
+    <string name="age">Age</string>
+    <string name="text">text</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="Save">Save</string>
+</resources>
