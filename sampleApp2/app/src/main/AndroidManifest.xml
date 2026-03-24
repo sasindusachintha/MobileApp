@@ -17,7 +17,7 @@
             android:name=".Dashboard"
             android:exported="false" />
         <activity
-            android:name=".Signup"
+            android:name=".login"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
@@ -29,8 +29,8 @@
             android:name=".MainActivity"
             android:exported="false" />
         <activity
-            android:name=".login"
-            android:exported="false" />
+            android:name=".Signup"
+            android:exported="true" />
     </application>
 
 </manifest>

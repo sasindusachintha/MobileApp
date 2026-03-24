@@ -1,13 +1,33 @@
 {
   "project_info": {
-    "project_number": "263373263157",
-    "project_id": "sampleapp2-60dd3",
-    "storage_bucket": "sampleapp2-60dd3.firebasestorage.app"
+    "project_number": "4862618929",
+    "firebase_url": "https://newapp1-f57ee-default-rtdb.firebaseio.com",
+    "project_id": "newapp1-f57ee",
+    "storage_bucket": "newapp1-f57ee.firebasestorage.app"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:263373263157:android:b9f7b9db46c776ad31bc7c",
+        "mobilesdk_app_id": "1:4862618929:android:7b70c2ee37deaed6439410",
+        "android_client_info": {
+          "package_name": "com.example.newapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClukLdbAYB3Xipy8GfWJfeCIz1wJ1m1IY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:4862618929:android:ed14ddb26b56f994439410",
         "android_client_info": {
           "package_name": "com.example.sampleapp2"
         }
@@ -15,7 +35,7 @@
       "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyCfYboV8zVd8OfxoDoCRkD_3lpjXWYm91M"
+          "current_key": "AIzaSyClukLdbAYB3Xipy8GfWJfeCIz1wJ1m1IY"
         }
       ],
       "services": {

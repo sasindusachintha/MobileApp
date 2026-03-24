@@ -21,8 +21,8 @@
 
     <EditText
         android:id="@+id/txt_name1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="241dp"
+        android:layout_height="61dp"
         android:layout_marginBottom="68dp"
         android:ems="10"
         android:hint="@string/Employee_Name"
@@ -36,8 +36,8 @@
 
     <EditText
         android:id="@+id/txt_email1"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="243dp"
+        android:layout_height="69dp"
         android:ems="10"
         android:hint="@string/Email"
         android:inputType="text"
@@ -61,8 +61,8 @@
 
     <EditText
         android:id="@+id/txt_Password"
-        android:layout_width="wrap_content"
-        android:layout_height="wrap_content"
+        android:layout_width="251dp"
+        android:layout_height="69dp"
         android:ems="10"
         android:hint="@string/Password"
         android:inputType="text"
