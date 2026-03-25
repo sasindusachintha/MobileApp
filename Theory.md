@@ -468,3 +468,39 @@ Example:
 Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show();
 
 ---
+
+### Human Computer Interface (HCI)
+- Easy to use
+- Clear layout
+- Responsive design
+- Good user experience
+
+---
+
+### Security Models
+- Authentication (login system)
+- Data encryption
+- Secure database (Firebase rules)
+- Permissions control
+
+---
+
+## Summary
+
+Includes:
+- Requirements
+- UI Design
+- Flowcharts & Pseudocode
+- Data Dictionary
+- Class Diagrams
+
+Programming includes:
+- Variables & Data Types
+- Methods
+- Libraries
+- HCI
+- Security
+
+These ensure a well-structured and secure mobile application.
+
+---
