@@ -392,3 +392,79 @@ int	Integer numbers	10
 double	Decimal numbers	10.5
 String	Text data	"Hello"
 boolean	True or false values	true
+
+Example:
+int age = 20;
+String name = "Alice";
+boolean isLoggedIn = true;
+
+---
+
+### Declaring Variables
+String email;
+int age;
+
+Assigning value:
+String email = "user@gmail.com";
+
+---
+
+### Scope of Variables
+- Local → inside method
+- Instance → inside class
+
+class User {
+String name; // instance
+void show() {
+    int age = 20; // local
+}
+}
+
+---
+
+### Constants
+final double PI = 3.14;
+
+---
+
+## 3. Programming
+
+### Methods
+Reusable blocks of code.
+
+public void saveUser() {
+// save data
+}
+
+---
+
+### Mobile Language Commands
+
+**Condition:**
+
+if(age > 18){
+print("Adult");
+}
+
+**Loop:**
+
+for(int i=0; i<5; i++){
+print(i);
+}
+
+---
+
+### Library Classes
+
+| Class            | Use                  |
+|------------------|----------------------|
+| Button           | Click button         |
+| EditText         | Input field          |
+| FirebaseDatabase | Database connection  |
+| Toast            | Show message         |
+
+Example:
+
+Toast.makeText(this, "Saved", Toast.LENGTH_SHORT).show();
+
+---
