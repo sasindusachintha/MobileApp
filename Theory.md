@@ -532,3 +532,19 @@ Integrated Development Environments (IDEs) are software tools used to develop, t
 - Ensuring good user experience
 
 ---
+
+### Phone Services & Security
+- Accessing device features (camera, GPS, internet)
+- Handling permissions securely
+- Protecting user data (authentication, encryption)
+
+---
+
+### Distribution Complexity
+- Publishing apps to app stores (Google Play, App Store)
+- Meeting platform guidelines
+- Version updates and maintenance
+
+---
+
+
