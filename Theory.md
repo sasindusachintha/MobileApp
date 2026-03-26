@@ -504,3 +504,22 @@ Programming includes:
 These ensure a well-structured and secure mobile application.
 
 ---
+
+## 4. Integrated Development Tools (IDEs)
+Integrated Development Environments (IDEs) are software tools used to develop, test, and debug applications.
+
+### Examples:
+- **Android Studio** – Official IDE for Android development (Java/Kotlin)
+- **NetBeans** – General-purpose IDE for Java and other languages
+- **Eclipse** – Popular IDE for Java and Android (older but still used)
+- **Xamarin Studio** – Used for cross-platform mobile apps (C#)
+- **Ionic Framework** – Used for hybrid mobile app development (HTML, CSS, JavaScript)
+
+### Features of IDEs:
+- Code editor
+- Debugging tools
+- Emulator support
+- UI design tools
+- Build automation
+
+---
