@@ -523,3 +523,12 @@ Integrated Development Environments (IDEs) are software tools used to develop, t
 - Build automation
 
 ---
+
+## 5. Complexity in Mobile App Development
+
+### Interface / GUI Complexity
+- Designing responsive layouts for different screen sizes
+- Managing user interaction (buttons, forms, navigation)
+- Ensuring good user experience
+
+---
