@@ -566,9 +566,26 @@ String name = "John";
 
 ### Debugging Code
 Finding and fixing errors in the program.
-
 - Using breakpoints
 - Checking logs (Logcat in Android)
 - Step-by-step execution
 
 ---
+
+### Naming Conventions
+Using proper naming styles for readability.
+
+- Variables → camelCase (`userName`)
+- Classes → PascalCase (`UserDetails`)
+- Constants → UPPER_CASE (`MAX_SIZE`)
+
+---
+
+### Checking Functionality Against Requirements
+- Verify if the app meets all requirements
+- Test each feature
+- Compare expected vs actual output
+
+---
+
+### Error Detection
