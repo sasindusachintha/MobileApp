@@ -547,4 +547,28 @@ Integrated Development Environments (IDEs) are software tools used to develop, t
 
 ---
 
+### Development Complexity
+- Writing efficient code
+- Handling bugs and errors
+- Integrating APIs (e.g., Firebase)
+- Testing across devices
 
+---
+
+## 6. Mechanisms (Development Practices)
+
+### Valid Declarations
+Ensuring variables and methods are properly declared.
+int age = 20;
+String name = "John";
+
+---
+
+### Debugging Code
+Finding and fixing errors in the program.
+
+- Using breakpoints
+- Checking logs (Logcat in Android)
+- Step-by-step execution
+
+---
