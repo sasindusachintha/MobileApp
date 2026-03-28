@@ -589,3 +589,18 @@ Using proper naming styles for readability.
 ---
 
 ### Error Detection
+
+#### Types of Errors:
+
+**1. Compiler Errors**
+- Occur during compilation
+- Example: missing semicolon
+int a = 10
+
+---
+
+**2. Runtime Errors**
+- Occur while the program is running
+- Example: division by zero
+
+---
