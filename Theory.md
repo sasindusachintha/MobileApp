@@ -618,3 +618,18 @@ int a = 10
 
 ### In-Code Response
 Handling errors using conditions:
+if(name.isEmpty()){
+showMessage("Enter name");
+}
+
+---
+
+### Dry Running
+Manually testing code logic step-by-step without running it.
+
+Example:
+- Input: age = 20
+- Check: age > 18 → true
+- Output: "Adult"
+
+---
