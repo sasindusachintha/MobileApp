@@ -604,3 +604,17 @@ int a = 10
 - Example: division by zero
 
 ---
+
+**3. Logical Errors**
+- Program runs but gives wrong output
+
+---
+
+### Error Messages
+- Help identify issues in code
+- Displayed in IDE (e.g., Android Studio)
+
+---
+
+### In-Code Response
+Handling errors using conditions:
