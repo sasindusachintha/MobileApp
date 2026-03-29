@@ -633,3 +633,16 @@ Example:
 - Output: "Adult"
 
 ---
+
+## 7. Tools (Emulators)
+
+Emulators simulate mobile devices on a computer.
+
+### Examples:
+
+- **Google Android Emulator** – Official Android emulator
+- **Nox Player** – Fast Android emulator for apps/games
+- **Android SDK Emulator** – Built into Android Studio
+- **iPhoney** – iOS simulator (basic)
+- **BlackBerry Simulator** – For BlackBerry apps
+- **Genymotion** – High-performance Android emulator
