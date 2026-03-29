@@ -653,3 +653,15 @@ Emulators simulate mobile devices on a computer.
 - Simulate different devices and OS versions
 
 ---
+
+## 8. Feedback
+
+Collecting feedback helps improve the application.
+
+### Methods:
+
+- **Surveys**
+- **Questionnaires**
+- **Interviews**
+
+---
