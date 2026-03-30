@@ -695,4 +695,12 @@ Includes:
 
 ---
 
+### Test Results
+Records outcomes of testing.
+
+| Test Case | Expected | Actual | Status |
+|-----------|----------|--------|--------|
+| Save Data | Success  | Success| Pass  |
+
+---
 
