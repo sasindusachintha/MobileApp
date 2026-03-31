@@ -704,3 +704,13 @@ Records outcomes of testing.
 
 ---
 
+### Programmer Guidance
+Helps developers understand and maintain code.
+
+Includes:
+- Code structure
+- Comments
+- Functions explanation
+
+---
+
