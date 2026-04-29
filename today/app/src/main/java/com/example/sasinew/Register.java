@@ -4,6 +4,7 @@ import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.TextView;
 import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
@@ -19,6 +20,8 @@ import com.google.firebase.database.FirebaseDatabase;
 
 public class Register extends AppCompatActivity {
 
+    TextView txtLogin;
+
     EditText name, phone, email, password ;
 
     Button registerBtn;
@@ -32,6 +35,13 @@ public class Register extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         EdgeToEdge.enable(this);
         setContentView(R.layout.activity_register);
+
+        txtLogin = findViewById(R.id.textView5);
+
+        txtLogin.setOnClickListener(v -> {
+            startActivity(new Intent(Register.this, Login.class));
+            finish(); // optional (prevents going back to register with back button)
+        });
 
         auth = FirebaseAuth.getInstance();
         databaseReference = FirebaseDatabase.getInstance().getReference("users");
