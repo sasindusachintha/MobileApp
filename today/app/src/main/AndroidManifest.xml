@@ -12,6 +12,9 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.SasiNew">
         <activity
+            android:name=".user_item"
+            android:exported="false" />
+        <activity
             android:name=".Home"
             android:exported="false" />
         <activity
