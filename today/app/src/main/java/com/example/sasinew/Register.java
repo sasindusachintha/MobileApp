@@ -1,8 +1,10 @@
 package com.example.sasinew;
 
+import android.content.Intent;
 import android.os.Bundle;
 import android.widget.Button;
 import android.widget.EditText;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
@@ -39,7 +41,34 @@ public class Register extends AppCompatActivity {
         email = findViewById(R.id.txtMail);
         password = findViewById(R.id.txtPass);
         registerBtn = findViewById(R.id.btnSave);
-        
+
+        registerBtn.setOnClickListener(v -> {
+            String userEmail = email.getText().toString();
+            String userPass = password.getText().toString();
+
+            auth.createUserWithEmailAndPassword(userEmail,userPass)
+                    .addOnCompleteListener(task -> {
+                        if (task.isSuccessful()) {
+                            // get id
+                            String uid = auth.getCurrentUser().getUid();
+
+                            //create user object
+                            User user = new User(
+                                    name.getText().toString(),
+                                    phone.getText().toString(),
+                                    userEmail
+                            );
+
+                            //save to real time database
+                            databaseReference.child(uid).setValue(user);
+                            Toast.makeText(this,"Registered Successfully", Toast.LENGTH_SHORT).show();
+                            startActivity(new Intent(this, Login.class));
+                        }else{
+                            Toast.makeText(this,"Registerd Unsuccessfully",Toast.LENGTH_SHORT).show();
+                        }
+                    });
+        });
+
         ViewCompat.setOnApplyWindowInsetsListener(findViewById(R.id.main), (v, insets) -> {
             Insets systemBars = insets.getInsets(WindowInsetsCompat.Type.systemBars());
             v.setPadding(systemBars.left, systemBars.top, systemBars.right, systemBars.bottom);
