@@ -1,6 +1,7 @@
 package com.example.sasinew;
 
 import android.os.Bundle;
+import android.widget.Toast;
 
 import androidx.activity.EdgeToEdge;
 import androidx.annotation.NonNull;
@@ -55,7 +56,7 @@ public class Home extends AppCompatActivity {
 
             @Override
             public void onCancelled(@NonNull DatabaseError error) {
-
+                Toast.makeText(Home.this, error.getMessage(), Toast.LENGTH_SHORT).show();
             }
         });
     }
