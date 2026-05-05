@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "268840385209",
+    "project_id": "sasinewrecyclerview",
+    "storage_bucket": "sasinewrecyclerview.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:268840385209:android:382916ec5a02388d97b968",
+        "android_client_info": {
+          "package_name": "com.example.sasinew"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmAAd1tAk-tTT2wzjXKKHtouzWh6B1SVw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

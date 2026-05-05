@@ -1,3 +1,12 @@
 <resources>
     <string name="app_name">TestAppSasi</string>
+    <string name="START">TestAppSasi</string>
+    <string name="Registration_image">Registration image</string>
+    <string name="already_have_a_account">already have a account</string>
+    <string name="password">pass</string>
+    <string name="SignUp">SignUp</string>
+    <string name="Login">login</string>
+    <string name="Email">Email</string>
+
+    already have a account
 </resources>
