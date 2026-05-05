@@ -5,7 +5,6 @@ import android.os.Bundle;
 import androidx.activity.EdgeToEdge;
 import androidx.appcompat.app.AppCompatActivity;
 
-
 import android.os.Bundle;
 import android.view.MenuItem;
 import android.widget.Toast;
@@ -82,5 +81,6 @@ public class MainActivity extends AppCompatActivity implements NavigationView.On
             Toast.makeText(this, "Logout!", Toast.LENGTH_SHORT).show();
         }
 
-        return false;
+        drawerLayout.closeDrawer(GravityCompat.START);
+        return true;
     }}
