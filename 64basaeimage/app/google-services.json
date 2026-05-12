@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "121318722879",
+    "project_id": "image-fec73",
+    "storage_bucket": "image-fec73.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121318722879:android:9475805462c6442a79178a",
+        "android_client_info": {
+          "package_name": "com.example.image"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCzTU6Nv7db6s3RiixttX8mv6Z7aoY5yq4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
